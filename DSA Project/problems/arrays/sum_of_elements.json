@@ -1,0 +1,19 @@
+{
+    "id":"arrays_001",
+    "title":"Sum of Elements",
+    "description":"Given a list of integers, return the sum of all elements.",
+    "input_format":"A single line containing space-separated integers",
+    "output_format":"A single integer,sum of elements",
+    "topic":"arrays",
+    "difficulty":"easy",
+    "test_cases": [
+        {
+            "input": "1 2 3 4 5",
+            "output": "15"
+        },
+        {
+            "input":"10 5 -7",
+            "output":"8"
+        }
+    ]
+}
