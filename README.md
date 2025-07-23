@@ -73,7 +73,7 @@ python main.py
 
 ```bash
 --- Welcome to DSA Problem Tracker ---
-Enter your username: pearl
+Enter your username: xyz
 
 Loaded problem: Sum of Elements
 
@@ -88,7 +88,7 @@ Result: Passed
 
 ```json
 {
-  "pearl": {
+  "xyz": {
     "sum_array": "Passed"
   }
 }
